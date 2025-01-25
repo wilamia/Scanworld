@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_page"
+        android:icon="@drawable/ic_home"
+        android:title="@string/mainWindow" />
+    <item
+        android:id="@+id/about_us"
+        android:icon="@drawable/ic_about"
+        android:title="@string/aboutUs" />
+    <item
+        android:id="@+id/instagram"
+        android:icon="@drawable/ic_instagram"
+        android:title="@string/scanworld" />
+    <item
+        android:id="@+id/facebook"
+        android:icon="@drawable/ic_facebook"
+        android:title="@string/scanworldtitle" />
+    <item
+        android:id="@+id/phone_number"
+        android:icon="@drawable/ic_number"
+        android:title="@string/number" />
+    <item
+        android:id="@+id/email"
+        android:icon="@drawable/ic_email"
+        android:title="@string/email" />
+</menu>
