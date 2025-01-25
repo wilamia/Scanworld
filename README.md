@@ -1,11 +1,14 @@
 ## Main menu
-<img src="https://github.com/user-attachments/assets/765ace55-b164-48f8-a9b6-f3027122b667" height="900">
+<img src= "https://github.com/user-attachments/assets/e46ae440-87ef-405e-9cc2-710d52e21ef0" height="900">
 
 ## Barcode and QR-code scanner
-<img src="https://github.com/user-attachments/assets/d13cb262-fd0f-4987-9caf-8d19646520da" height="900">
+<img src= "https://github.com/user-attachments/assets/5de5ea2d-2736-49fc-bd12-507e10178ffb"
+height ="900">
 
 ## Image scanner
-<img src="https://github.com/user-attachments/assets/63bd55f9-6f79-41da-830e-7d8b4d733c65" height="900">
+<img src= "https://github.com/user-attachments/assets/fc491d7f-834d-4f07-aeb5-5d7452f50bba"
+height="900">
 
 ## QR-code generator
-<img src="https://github.com/user-attachments/assets/b9b57aaf-e767-4ca5-b0d5-c1926a2718b7" height="900">
+<img src= "https://github.com/user-attachments/assets/fc674eeb-cec5-43e3-a93b-39614cf77845"
+height="900">
