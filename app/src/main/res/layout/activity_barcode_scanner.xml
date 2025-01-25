@@ -93,11 +93,11 @@
                         tools:text="@null" />
 
                     <LinearLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
                         android:layout_marginStart="20dp"
                         android:layout_marginEnd="20dp"
-                        android:gravity="center"
+                        android:layout_marginBottom="50dp"
                         android:orientation="horizontal">
 
                         <Button
@@ -105,11 +105,12 @@
                             android:layout_width="150dp"
                             android:layout_height="50dp"
                             android:layout_alignParentStart="true"
+                            android:layout_marginBottom="50dp"
                             android:layout_toStartOf="@+id/scan_again_button"
                             android:background="@drawable/myrect"
                             android:backgroundTint="#FFC0ABF9"
-                            android:elevation="8dp"
                             android:fontFamily="@font/gothampro_light"
+                            android:gravity="center"
                             android:stateListAnimator="@animator/button_state_animator"
                             android:text="@string/back"
                             android:translationX="4dp"
@@ -118,13 +119,13 @@
                         <Button
                             android:id="@+id/scan_again_button"
                             android:layout_width="180dp"
-                            android:layout_height="50dp"
+                            android:layout_height="match_parent"
                             android:layout_alignParentEnd="true"
                             android:layout_marginStart="10dp"
                             android:layout_marginEnd="5dp"
+                            android:layout_marginBottom="50dp"
                             android:background="@drawable/myrect"
                             android:backgroundTint="#FFC0ABF9"
-                            android:elevation="8dp"
                             android:fontFamily="@font/gothampro_light"
                             android:stateListAnimator="@animator/button_state_animator"
                             android:text="@string/scan_again"
